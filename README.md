@@ -1,5 +1,11 @@
-### Hi there 👋
+# Hi there 👋
 
+**✨这是EX的github页面✨**
+> 喜欢用python的网安菜🐕，H4ckBu7eer成员，CTF打WEB手但是想玩硬件，笨脑袋如果还可以开发的话想学AI。
+
+##💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕
+
+💬🐧:1993708529
 <!--
 **H4ckBu7eer-EX/H4ckBu7eer-EX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

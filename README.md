@@ -1,7 +1,7 @@
 # Hi there 👋
 
 **✨这是EX的github页面✨**
-> 喜欢用python的网安菜🐕，H4ckBu7eer成员，CTF打WEB手但是想玩硬件，笨脑袋如果还可以开发的话想学AI。
+> 喜欢用python的网安菜🐕，H4ckBu7eer成员，CTF打WEB手但是喜玩硬件，笨脑袋如果还可以开发的话想学AI。
 
 ##💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕
 

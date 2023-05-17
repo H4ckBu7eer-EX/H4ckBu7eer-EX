@@ -1,0 +1,1 @@
+alert("Powered by H4ckBu7eer");

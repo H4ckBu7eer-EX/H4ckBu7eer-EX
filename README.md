@@ -1,7 +1,7 @@
 # Hi there 👋
 
-**✨这是EX的github页面✨**
-> 每次回头总感觉自己不够努力，于是我不再回头。
+**✨每次回头总感觉自己不够努力，于是我不再回头。✨**
+> Working🐱‍👤
 <!--
 **H4ckBu7eer-EX/H4ckBu7eer-EX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
